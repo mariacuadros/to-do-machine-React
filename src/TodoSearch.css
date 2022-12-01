@@ -1,0 +1,11 @@
+.todoSearch-input {
+    margin: 0 auto;
+    height: 30px;
+    width: 40%;
+    text-align: center;
+    min-width: 200px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(205, 218, 247);
+   
+}
